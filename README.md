@@ -1,6 +1,7 @@
 # Personalizar-Pendrive
 Personalizar Pendrive (autorun.inf)
 
+https://learn.microsoft.com/pt-br/windows/win32/shell/autorun-cmds?redirectedfrom=MSDN
 
 Entradas autorun.inf
 Artigo
