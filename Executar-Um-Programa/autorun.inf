@@ -1,0 +1,4 @@
+[autorun]
+;Open=NOMEDOARQUIVO.exe
+ShellExecute=NOMEDOARQUIVO.exe
+UseAutoPlay=1
